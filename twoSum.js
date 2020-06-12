@@ -22,4 +22,3 @@ var twoSum = function(nums, target) {
 };
 
 console.log(twoSum(arr,9));
-console.log('hello');
